@@ -13,7 +13,7 @@ st.title("Alpari Analyzer Pro")
 st.caption("تحلیل بازار | پرایس اکشن | مدیریت ریسک")
 
 MARKETS = {
-    "طلا": "GC=F",
+  "طلا (XAUUSD)": "XAUUSD=X",
     "یورو / دلار": "EURUSD=X",
     "پوند / دلار": "GBPUSD=X",
     "دلار / ین": "JPY=X",
